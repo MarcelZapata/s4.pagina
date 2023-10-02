@@ -1,0 +1,46 @@
+
+/* 
+Estilos de pagina de Marcel
+*/
+
+
+header{
+    background-color:blue;
+    padding: 20px 20px 20px;
+    font-family: serif;
+    color: white;
+}
+
+section{
+    text-align: center;
+
+}
+
+nav a{
+    text-decoration: none; /* Quitar el subrayado */
+    color: black;
+    align-content: center;
+    left: 20px;
+    list-style: none;
+
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    background-color: blue;
+    color: white;
+
+}
+nav a:hover{
+    background-color: cyan;
+    color: black;
+    transition-delay:  0.2s;
+}
+
+body{
+    font-family: sans-serif;
+
+}
